@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347881301093",
+    "project_id": "testagain-a95cb",
+    "storage_bucket": "testagain-a95cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347881301093:android:deffaaef35fdb83aa4d28c",
+        "android_client_info": {
+          "package_name": "come.example.newnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa-UElFFDN4U-ABJP5XaGhqWXmGW7854w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
